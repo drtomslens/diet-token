@@ -1,0 +1,166 @@
+# DietToken daily messages (100 curated lines; lines starting with # are ignored).
+# Optional placeholders: {usd_today}, {usd_all} (estimated at ~$3.00 / 1M frontier input tokens).
+#
+# --- Clean & Grounded ---
+Nice! Keeping heavy tokens off the cloud today.
+Your cloud quota is loving this diet.
+Local GPU doing the heavy lifting today.
+Lean context, sharp answers.
+Your API bill says thanks — ~${usd_all} saved all-time so far.
+Zero cloud bloat — handled locally.
+Apple Silicon stayed busy so the cloud didn't have to.
+Lighter prompts, faster thinking.
+Heavy files stayed right here on your Mac today.
+Quietly trimming the fat in the background.
+Signal in, noise out.
+Your context window is breathing easy today.
+Smart routing pays off — roughly ~${usd_today} saved today.
+Keeping frontier models focused on what matters.
+Fewer cloud tokens, same sharp results.
+Local-first reading FTW.
+Big files, tiny cloud footprint.
+Another clean, lean session.
+No token left wasted today.
+Fast local skim, crisp cloud reasoning.
+#
+# --- Funny ---
+Your MacBook fans didn't even spin up and you still saved ~${usd_today}.
+Cloud providers hate this one weird trick (~${usd_all} saved).
+Putting frontier models on a strict keto diet — zero raw-file carbs.
+~${usd_all} saved. That's almost a fancy coffee you didn't owe the cloud.
+Your MacBook is finally paying off its own Apple Tax.
+We don't ship 50-page PDFs to the cloud in this house.
+Local model read the whole thing so your frontier model could look smart.
+API billing department is currently filing a missing-tokens report.
+Context window so slim it fits through a USB-C port.
+Your cloud model thinks you're a genius who only writes 20-line files.
+Local model is the intern who reads the 80-page report and hands over 3 bullets.
+Roughly ~${usd_all} in cloud API fees stayed in your pocket.
+Free local inference beats paying per-token for raw file dumps.
+Smart spend: ~${usd_today} in cloud input tokens skipped today.
+Your wallet and your context window both approve (~${usd_all} saved).
+#
+# --- Unhinged ---
+I paid for unified memory and I am going to use ALL of it.
+Starving the cloud meter one 800-line file at a time (~${usd_all} saved).
+Big Cloud wanted ~${usd_all} for this. Local silicon said no.
+Your GPU is eating raw PDFs for breakfast and asking for seconds.
+Token hoarding disorder, cured locally.
+Sending a 20k-token file to a frontier model is now illegal on this laptop.
+Local model: "I'll read the 60-page PDF." Cloud model: "I'll take the credit."
+~${usd_all} saved — at this rate the MacBook pays for itself by 2039.
+Your Mac's GPU just mugged the cloud API for ~${usd_today}.
+Refusing to pay cloud rates for whitespace and boilerplate since 2026.
+Raw files don't leave this desk. Period.
+The cloud meter tried to spin; your Mac unplugged it.
+Zero mercy for bloated context windows.
+Local silicon woke up and chose thrift.
+Another massive file intercepted before it could touch your quota.
+#
+# --- Creative ---
+Distilling oceans of text into a single espresso shot of context.
+Turning 500-line novels into crisp postcards for the cloud.
+Like an RF low-pass filter, but for bloated prompts.
+Your Mac is now a token refinery — crude files in, pure signal out.
+Folding giant PDFs into origami before mailing them to the cloud.
+Compressing the haystack so the frontier model only sees the needle.
+A silent bouncer at the door of your context window.
+Bulk text compressed before leaving your desk.
+Small summaries, big impact.
+High signal, low burn.
+#
+# --- Philosophical ---
+Every token saved locally is a tiny victory against entropy.
+Simplicity is knowing what not to send to the cloud.
+Attention is finite — even for transformers.
+Good engineering is frugal engineering.
+Wisdom is reading the whole book and quoting only the right page.
+Not every thought needs a data center.
+The fastest token is the one you never had to transmit.
+Clarity begins when you cut the noise before it arrives.
+Own your compute, own your context.
+True intelligence is knowing which brain to ask.
+#
+# --- Witty ---
+Frontier brains shouldn't read boilerplate.
+Efficiency looks good on you.
+Peak token hygiene.
+Less bloat, more flow.
+Skipping the cloud tax like a pro.
+Sharp citations, tiny context.
+Keeping it local and light.
+Your context budget is in great shape.
+Clean reads, zero quota anxiety.
+DietToken working quietly in your corner.
+#
+# --- Questions ---
+What will you build with the ~${usd_all} you didn't burn on raw reads?
+Did that 600-line file really need a frontier model to skim it?
+How many cloud tokens did you just spare? Look right below.
+Ready to ship something great with a spotless context window?
+Remember when we used to paste whole files into the cloud?
+What else on your Mac deserves to stay local?
+Curious how much you've saved this week? Check shunt_stats.py.
+Could your context window possibly get any leaner?
+What's the biggest PDF you've put on a diet so far?
+Feeling lighter without all that prompt bloat?
+#
+# --- Rhetorical Questions ---
+Why pay rent on a context window when you own the GPU?
+Why ship 20,000 tokens across the ocean when 200 will do?
+Who needs a cloud cluster to read a local log file?
+Why burn frontier quota on boilerplate when your Mac is sitting right here?
+Why let raw files crowd out the actual reasoning?
+Who said local models can't pull their weight?
+Why feed a 50-page PDF to a cloud meter when local silicon is free?
+Isn't it nice when your laptop actually earns its desk space?
+Why pay per-token for silence and whitespace?
+Who knew putting your tokens on a diet would feel this good?
+#
+# --- Gym & Diet Puns ---
+Zero-carb context. Pure protein signal.
+Skipping leg day? Never. Skipping cloud bloat? Always.
+Shredding raw tokens, bulking up on real reasoning.
+Your context window just hit a new personal record.
+Lean gains only — no empty-calorie boilerplate.
+Calorie deficit for your cloud meter, surplus for your wallet (~${usd_all} saved).
+Cutting prompt fat since day one.
+High-rep local reads, heavy-lift cloud reasoning.
+No cheat days for bloated context windows.
+Clean macros: 98% local skim, 2% frontier reasoning.
+#
+# --- Sci-Fi & Mission Control ---
+[SYS] Bulk read intercepted at perimeter. Cloud shields holding.
+[MISSION CTRL] Local thrusters engaged — ~${usd_today} fuel conserved.
+[TELEMETRY] Raw file contained on-device. Zero cloud breach detected.
+[ORBITAL] Payload compressed by 98% prior to uplink.
+[STATUS] Local neural core nominal. Cloud quota untouched.
+[RADAR] Large PDF neutralized locally before entering cloud airspace.
+[LOG] Warp-speed KV-cache reuse active. Standing by.
+[COMMS] Transmitting distilled signal only. Over.
+[DEFENSE] Perimeter hook active — boilerplate deflected.
+[HUD] Local GPU: engaged. Cloud burn: minimal (~${usd_all} saved).
+#
+# --- Haikus ---
+Big PDF drops / Local silicon skims fast / Cloud wallet rests calm.
+Thousand lines of code / Condensed to three crisp bullets / Frontier mind stays clear.
+Silent MacBook hums / Heavy text stays on the desk / Quota breathes again.
+Why send all the noise / When local metal can read / And ship just the spark.
+Raw logs flood the screen / Shunt steps in with quiet grace / Signal shines alone.
+Twenty thousand words / Folded into neat citations / Cloud bill barely moves.
+Unified memory / Holds the weight of giant docs / Light as air upstream.
+No more bloated prompts / Just the exact lines you need / Clean code follows fast.
+Local cache remembers / Seven seconds for the truth / Cloud meter sleeps sound.
+Small summary sent / Frontier model sees the core / Zero tokens burned.
+#
+# --- Eco & Data-Center Minimalism ---
+Fewer round trips to the data center, lighter footprint.
+Local compute, shorter wire, greener tokens.
+Not every file needs a transatlantic fiber trip.
+Keeping bulk reads off distant server farms today.
+Smaller payloads, cooler racks, happier planet.
+Minimal network chatter, maximum local utility.
+Using the watts already on your desk instead of a hyperscale cluster.
+Trimming cloud traffic one large PDF at a time.
+Lighter context means less energy spent re-reading the same file.
+Good for your wallet (~${usd_all} saved), gentler on the grid.

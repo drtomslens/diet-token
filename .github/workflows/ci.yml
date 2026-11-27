@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  macos-verify:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Syntax-check Python scripts
+        run: python3 -m py_compile scripts/*.py
+
+      - name: Run DietToken self-diagnostics (MCP + Claude Code & Antigravity hooks)
+        run: python3 scripts/doctor.py
+
+      - name: Build native macOS menu bar app
+        run: ./projects/local-shunt-bar/build.sh
